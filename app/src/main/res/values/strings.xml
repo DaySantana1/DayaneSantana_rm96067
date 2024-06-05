@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GlobalSolution</string>
+    <string name="label_cadastrar_praia">Enjoy the Beach</string>
+    <string name="hint_nome_da_praia">Nome da Praia</string>
+    <string name="hint_cidade">Cidade</string>
+    <string name="hint_estado">Estado</string>
+    <string name="day">Dayane Silva Santana Rm: 96067</string>
+    <string name="vini">Vinicios Romano Rm: 93018</string>
+    <string name="label_incluir">Incluir</string>
+
+</resources>
